@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "playwright": "^1.63.0",
+    "sync-input": "https://github.com/hyperskill/sync-input/archive/v1.tar.gz"
+  },
+  "name": "htmlcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conversion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
